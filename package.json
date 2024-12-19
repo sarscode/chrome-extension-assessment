@@ -3,6 +3,11 @@
   "private": true,
   "version": "0.1.0",
   "type": "module",
+  "author": {
+    "name": "Sani Rich Salifu",
+    "email": "salifusanirich@gmail.com",
+    "url": "https://github.com/sarscode"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
