@@ -64,7 +64,7 @@ function App() {
         <section className="absolute bottom-0 z-10">
           <NotePad />
         </section>
-        <section className="absolute bottom-[72px] hover:-translate-y-10 hover:transition-transform hover:ease-in-out hover:duration-700 ease-in-out duration-700">
+        <section className="absolute bottom-6 hover:-translate-y-10 hover:transition-transform hover:ease-in-out hover:duration-700 ease-in-out duration-700">
           <TasksWidget />
         </section>
       </section>

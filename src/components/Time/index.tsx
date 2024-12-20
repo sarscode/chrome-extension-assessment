@@ -26,7 +26,7 @@ export default function Time() {
   }, []);
 
   return (
-    <section className="flex gap-6">
+    <section className="flex justify-center gap-6 text-center">
       <img
         src={"/images/morning-star.gif"}
         alt={"A gif of a cloud and sunshine"}
