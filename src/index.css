@@ -4,7 +4,7 @@
 
 @layer base {
   :root {
-    --font-family: Helvetica, Arial, sans-serif;
+    --font-serif: Helvetica, Arial, sans-serif;
     font-size: 16px;
     font-synthesis: none;
     text-rendering: optimizeLegibility;
@@ -12,7 +12,7 @@
     -moz-osx-font-smoothing: grayscale;
   }
   body {
-    font-family: var(--font-family);
+    font-family: var(--font-serif);
     font-size: 16px;
   }
 }

@@ -10,7 +10,7 @@ export default {
     },
     extend: {
       fontFamily: {
-        serif: ["var(--font-family)", "sans-serif", ...fontFamily.serif],
+        serif: ["var(--font-serif)", "sans-serif", ...fontFamily.serif],
       },
     },
   },
